@@ -29,7 +29,7 @@ index.html:
 </center>
 <br>
 <table align="center" width="540" cellspacing="6" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>TIME TABLE - Vinush.C.V (212222230176)</b></caption>
+<caption><b>TIME TABLE - Sachin.C (212222230125)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
