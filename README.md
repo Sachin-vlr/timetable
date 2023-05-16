@@ -114,3 +114,6 @@ index.html:
 ```
 
 # OUPUT
+
+![acttime - Copy](https://github.com/Sachin-vlr/timetable/assets/113497666/7f7324f2-76b2-482a-b1ba-36a395dc4561)
+
